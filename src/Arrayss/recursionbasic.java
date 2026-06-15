@@ -1,4 +1,4 @@
-package Arrays;
+package Arrayss;
 
 public class recursionbasic {
     int n=3;
